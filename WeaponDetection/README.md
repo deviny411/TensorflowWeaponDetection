@@ -5,5 +5,5 @@ I utilized the base model and made proper debugs and adjustments to allow it to 
 
 
 <br />
-<b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
+Based on this repository: https://github.com/nicknochnack/TFODCourse
 <br/><br/>
